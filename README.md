@@ -60,7 +60,12 @@ The main goal of this project was to practice:
 
 ## How to Run
 
-### Open in Unity
+### Option A - Play on itch.io (recommended)
+The fastest way to try the game is in your browser:
+
+- Play: https://p4ttt0.itch.io/snake
+
+### Option B - Open in Unity
 1. Clone the repository:
    ```bash
    git clone https://github.com/P4TTT0/Unity-Snake-Clone.git
@@ -70,13 +75,11 @@ The main goal of this project was to practice:
 4. Press Play in the Unity Editor.
 
 ### Build
-The project is configured for Windows. To produce a build:
+The itch.io build runs on WebGL. To produce a desktop build (e.g. Windows or Mac):
 1. Open the project in Unity.
 2. Open File > Build Settings.
-3. Add the `MainMenu` and `SnakeScene` scenes (if not already included).
+3. Make sure both `MainMenu` and `SnakeScene` are in the build list.
 4. Select your target platform and click Build.
-
-> No public WebGL or itch.io build is available for this project.
 
 ---
 
