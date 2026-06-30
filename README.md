@@ -1,10 +1,7 @@
 # Snake Clone (Unity)
+<img width="1920" height="1080" alt="2026-06-30 16-56-15" src="https://github.com/user-attachments/assets/5b69dd6b-b27f-4b6a-b820-28e3449ff87a" />
 
 A 2D grid-based Snake clone built with Unity 2022.3 as a personal learning project.
-
-> Replace this line with a screenshot or short GIF once you have one.
-
----
 
 ## About the Game
 
